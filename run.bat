@@ -1,0 +1,1 @@
+pytest -s -v TestCases\Test_OrangeHRM.py --html=Report/report.html
