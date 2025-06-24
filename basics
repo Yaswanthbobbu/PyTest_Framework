@@ -1,0 +1,19 @@
+git clone existing repository
+virtual environment
+pip install requirements.txt
+
+tests/
+conftest.py
+pytest.ini
+
+hooks
+setup
+teardown
+markers
+
+html report
+screenshots
+downloads
+
+
+
